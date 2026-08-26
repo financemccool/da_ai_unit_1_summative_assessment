@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1536" height="1024" viewBox="0 0 1536 1024">
+  <image x="0" y="0" width="1536" height="1024" preserveAspectRatio="none" xlink:href="ghost-whale-readme.png"/>
+
+  <g fill="#263238" font-family="'Libre Baskerville', Georgia, serif">
+    <text x="118" y="154" font-size="54" font-style="italic" letter-spacing="0.2">
+      <tspan x="118" dy="0">“Or to take arms against a sea of troubles,</tspan>
+      <tspan x="118" dy="82">And by opposing end them?”</tspan>
+    </text>
+    <text x="122" y="316" font-size="28" font-style="italic" fill="#39464a">— Hamlet (Act 3, Scene 1)</text>
+  </g>
+</svg>
