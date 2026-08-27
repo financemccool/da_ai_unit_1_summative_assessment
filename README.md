@@ -344,7 +344,6 @@ I checked all suggestions against visible notebook tables, charts, counts, and c
 - `jupyter_notebooks/02_investigate_visualise.ipynb` — Part 2: business-question analysis and visualisation, reloading Part 1's saved output
 - `outputs/cleaned_online_retail.csv` — cleaned paid-product hand-off, written by Part 1 and reloaded by Part 2
 - `Images/Online_Retail_Analysis/` — reviewed chart images
-- `Online_Retail_Analysis_Simple_Cell_Plan_20260825.md` — cell-by-cell design and preserved wording from the earlier single-notebook draft; retained as design history, not a description of the current two-notebook structure
 
 ### Running the notebooks
 
