@@ -159,7 +159,7 @@ The Netherlands is treated as an investigation question within this hypothesis, 
 
 ## Project workflow
 
-The active project is now two linear Jupyter Notebooks, run in order. I had to change from my single notebook plan because the exploration and investigation phase grew overly large, and I decided it was more important to get this 100% right than the actual analysis and visualisation that would come after it. All the pretty pictures in the are of no use if they paint the wrong thing.
+The active project is now two linear Jupyter Notebooks, run in order. I had to change from my single notebook plan because the exploration and investigation phase grew overly large, and I decided it was more important to get this 100% right than the actual analysis and visualisation that would come after it. All the pretty pictures in the world are of no use if they paint the wrong thing.
 
 The dataset took a lot of time and effort to understand, verify, and pat into shape. So I now have two clear notebooks - each dealing with its own aspect of the project.  Each notebook's later cells depend on objects created earlier in that notebook, and the second notebook depends on a file saved by the first — so both are designed to run top to bottom, in sequence:
 
@@ -224,7 +224,7 @@ Quantity * UnitPrice
 
 This is recorded revenue or line value. It is not profit, margin, or customer lifetime value.
 
-The current Notebook 1 records a cleaned paid-product table of **522,540 rows** with complete `CustomerID` coverage within that cleaned scope. That makes customer-level grouping possible, but it does not identify customer type or business health.
+The current Notebook 1 records a cleaned paid-product table of **521,913 rows** with complete `CustomerID` coverage within that cleaned scope. That makes customer-level grouping possible, but it does not identify customer type or business health.
 
 ![Raw versus cleaned quality comparison](Images/Online_Retail_Analysis/online_retail_simple_etl_quality_comparison.png)
 
