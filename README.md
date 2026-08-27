@@ -1,11 +1,11 @@
 # Online Retail Transaction Analysis
 
-<p>
-  <img src="Images/python-logo.png" height="50" alt="Python">
-  <img src="Images/pandas-logo.png" height="50" alt="Pandas">
-  <img src="Images/matplotlib-logo.png" height="50" alt="Matplotlib">
-  <img src="Images/seaborn-logo.png" height="50" alt="Seaborn">
-  <a href="https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset"><img src="Images/kaggle-logo.png" height="50" alt="Kaggle"></a>
+<p align="center">
+  <img src="Images/python-logo.png" height="30" alt="Python">
+  <img src="Images/pandas-logo.png" height="30" alt="Pandas">
+  <img src="Images/matplotlib-logo.png" height="30" alt="Matplotlib">
+  <img src="Images/seaborn-logo.png" height="30" alt="Seaborn">
+  <a href="https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset"><img src="Images/kaggle-logo.png" height="30" alt="Kaggle"></a>
 </p>
 
 ![Antique letterbox-format engraving of a whaling crew harpooning a whale, with the Hamlet quote "Or to take arms against a sea of troubles, And by opposing end them?" set into the waves](Images/ghost-whale-header-letterbox-v1.png)
