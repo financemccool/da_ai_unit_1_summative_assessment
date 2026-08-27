@@ -427,8 +427,3 @@ No unfixed bugs remain in either notebook at the time of submission.
 
 - The project began as a single linear notebook. The data-quality investigation — the work that led to the CustomerID `15287` discovery — grew large enough that splitting the project into two notebooks (evaluation and cleaning, then business-question analysis) became the more honest structure. See [Project workflow](#project-workflow) for how that split works.
 - A significant portion of early analytical effort went into investigating a customer that turned out to be a data-version artefact rather than a real business account. That discovery required reframing the whole analytical direction partway through the project rather than simply continuing the original plan. See [The provenance discovery](#the-provenance-discovery) and [The pivot](#the-pivot).
-
-**Next steps:**
-
-- Regenerate the opening banner image in a wider, letterbox format.
-- RFM segmentation and clustering remain a supplementary investigation thread — not load-bearing for the assessed learning outcomes — and may be added if time allows.
