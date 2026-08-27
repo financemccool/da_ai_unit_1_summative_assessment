@@ -36,7 +36,7 @@ The split gives each notebook one clear responsibility. It also makes the transi
 
 ## Part 1 — evaluation, cleaning, and standardisation
 
-**Notebook:** `2_part_notebook/01_evaluation_clean_standardise.ipynb`
+**Notebook:** `jupyter_notebooks/01_evaluation_clean_standardise.ipynb`
 
 ### Human question
 
@@ -70,7 +70,7 @@ The raw table remains available as an audit source. Standardisation and cleaning
 
 ## Part 2 — investigation and visualisation
 
-**Notebook:** `2_part_notebook/02_investigate_visualise.ipynb`
+**Notebook:** `jupyter_notebooks/02_investigate_visualise.ipynb`
 
 ### Human question
 
@@ -129,4 +129,3 @@ This boundary prevents later charts from hiding unresolved data decisions and pr
 ## Relationship to the detailed cell plan
 
 `Notebook_Cell_Plan.md` records the detailed construction history for the earlier single-notebook route. This document records the current two-part architecture and the value that travels between the parts. It should be read first when someone needs the project map; the detailed plan is useful when someone needs to trace individual cells and their teaching purpose.
-

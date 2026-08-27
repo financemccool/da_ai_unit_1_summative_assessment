@@ -342,15 +342,15 @@ I checked all suggestions against visible notebook tables, charts, counts, and c
 ### Project files
 
 - `Data_Sets/Online_Retail.csv` — raw project input
-- `2_part_notebook/01_evaluation_clean_standardise.ipynb` — Part 1: dataset evaluation, data-quality investigation, cleaning, and validation
-- `2_part_notebook/02_investigate_visualise.ipynb` — Part 2: business-question analysis and visualisation, reloading Part 1's saved output
+- `jupyter_notebooks/01_evaluation_clean_standardise.ipynb` — Part 1: dataset evaluation, data-quality investigation, cleaning, and validation
+- `jupyter_notebooks/02_investigate_visualise.ipynb` — Part 2: business-question analysis and visualisation, reloading Part 1's saved output
 - `outputs/cleaned_online_retail.csv` — cleaned paid-product hand-off, written by Part 1 and reloaded by Part 2
 - `Images/Online_Retail_Analysis/` — reviewed chart images
 - `Online_Retail_Analysis_Simple_Cell_Plan_20260825.md` — cell-by-cell design and preserved wording from the earlier single-notebook draft; retained as design history, not a description of the current two-notebook structure
 
 ### Running the notebooks
 
-Run Part 1 first, from the beginning, in order — later cells depend on objects created earlier in the same notebook. Once Part 1 has finished and saved its output, run Part 2 in the same way. Both notebooks load and save paths relative to their own location inside `2_part_notebook/`, so Part 1 loads:
+Run Part 1 first, from the beginning, in order — later cells depend on objects created earlier in the same notebook. Once Part 1 has finished and saved its output, run Part 2 in the same way. Both notebooks load and save paths relative to their own location inside `jupyter_notebooks/`, so Part 1 loads:
 
 ```python
 pd.read_csv("../Data_Sets/Online_Retail.csv")
