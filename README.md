@@ -42,6 +42,8 @@ This project investigates an Online Retail transaction dataset for an imagined C
 
 > 📘 **[Jump straight to "How to use this repository" →](#how-to-use-this-repository)**
 
+> 🗂️ **[Project Board](https://github.com/users/financemccool/projects/2)**
+
 ## Prologue
 
 I begin with an apology.
@@ -179,11 +181,7 @@ Notebook 2 — investigate, visualise
 
 The split exists so the messy investigative work — the whale, the data-quality digging, the cleaning decisions — sits in its own notebook, separate from the business-question analysis that depends on a clean, already-verified table.
 
-The completed project board is available as supporting planning history:
-
-[Project 01 board](https://github.com/users/financemccool/projects/1/views/1?layout_template=board)
-
-The board is not an active product feature; it records the development route that led to the current project.
+The Project Board is not an active product feature; it records the development route that led to the current project.
 
 ## ETL and data quality
 
